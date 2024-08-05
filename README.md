@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Suriya-7
-- 👀 I’m interested in Cyber Security 
+- 👋 Hi, I’m Suriya
+- 👀 I’m interested in Web Developmennt, Network Security Engineering & Cyber Security 
 - 🌱 I’m currently learning Programming and Networking..
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/suriya-cybersecurity/)
 - 😄 Pronouns: He/Him

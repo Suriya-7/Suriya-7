@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suriya
-- 👀 I’m interested in Web Developmennt, Network Security Engineering & Cyber Security 
-- 🌱 I’m currently learning Programming and Networking..
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Python Programming..
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/suriya-cybersecurity/)
 - 😄 Pronouns: He/Him
 
